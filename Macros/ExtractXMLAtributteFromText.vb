@@ -33,12 +33,7 @@ End Sub
 
 
 /*
-
-I was trying to read a XML string of a excel cell to stract 2 attributes but at the end,
-but I surrendered and I decided to apply this fix.
-
+I was trying to read a XML string of a excel cell to to extract  2 attributes but at the end I surrendered and I decided to apply this fix.
 This remainds me that I need to study more about XML because it is not easy like c# or Java.
-
-
 
 */
