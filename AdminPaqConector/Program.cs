@@ -110,9 +110,5 @@ namespace ConnectorAdminPAQ
         public double precio { get; set; } = 0;  // 11
         public double importe { get; set; } = 0; // 15  /  36
         public DateTime fecha { get; set; }  // 43
-
-
     }
-
-
 }
